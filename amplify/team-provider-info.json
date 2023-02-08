@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-saspointapp-staging-155334-authRole",
+      "UnauthRoleArn": "arn:aws:iam::147839676922:role/amplify-saspointapp-staging-155334-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::147839676922:role/amplify-saspointapp-staging-155334-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-saspointapp-staging-155334-deployment",
+      "UnauthRoleName": "amplify-saspointapp-staging-155334-unauthRole",
+      "StackName": "amplify-saspointapp-staging-155334",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:147839676922:stack/amplify-saspointapp-staging-155334/be7e00e0-a7c8-11ed-b7f0-0e577e7c718b",
+      "AmplifyAppId": "d2e61zllujh9sr"
+    }
+  }
+}
