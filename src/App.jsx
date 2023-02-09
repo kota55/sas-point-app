@@ -2,7 +2,6 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
 // Amplify
-// import '@aws-amplify/ui-react/dist/styles.css';
 import { Amplify } from 'aws-amplify';
 import { withAuthenticator } from '@aws-amplify/ui-react';
 import AwsExports from '../aws-exports';
