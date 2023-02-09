@@ -10,6 +10,11 @@
       "StackName": "amplify-saspointapp-staging-155334",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:147839676922:stack/amplify-saspointapp-staging-155334/be7e00e0-a7c8-11ed-b7f0-0e577e7c718b",
       "AmplifyAppId": "d2e61zllujh9sr"
+    },
+    "categories": {
+      "auth": {
+        "saspointapp": {}
+      }
     }
   }
 }
